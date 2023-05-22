@@ -7,7 +7,7 @@ const zhNavbar = {
   },
   items: [
     {
-      to: "https://www.aibxw.com",
+      to: "https://www.aibxw.com/",
       label: "Ai三杯茶官网",
       position: "left",
     },
