@@ -13,7 +13,7 @@ const zhNavbar = {
     },
     
     {
-      to: "https://lu8qxb9xdh.feishu.cn/base/SC4tb9sJIaazCKs4EIJc2TZSnLg",
+      to: "https://lu8qxb9xdh.feishu.cn/share/base/form/shrcnaXwpVXm8PY8iyBklidIMfe",
       label: "反馈/添加提示词",
       position: "left",
     },
