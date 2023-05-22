@@ -142,7 +142,7 @@ function ShowcaseHeader() {
       <Heading as="h1">ChatGPT 提问模板</Heading>
       <p>{DESCRIPTION}</p>
       <Link className="button button--primary" to={SUBMIT_URL}>
-        <Translate id="showcase.header.button">👉ChatGPT无障碍访问👈</Translate>
+        <Translate id="showcase.header.button">👉 ChatGPT无障碍访问 👈</Translate>
       </Link>
     </section>
   );
