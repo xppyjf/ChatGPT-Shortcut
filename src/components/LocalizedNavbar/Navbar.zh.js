@@ -1,8 +1,8 @@
 const zhNavbar = {
   hideOnScroll: true,
-  title: "ChatGPT 提问模板",
+  title: "ChatGPT sc",
   logo: {
-    alt: "ChatGPT 提问模板",
+    alt: "ChatGPT sc",
     src: "img/logo.svg",
   },
   items: [
